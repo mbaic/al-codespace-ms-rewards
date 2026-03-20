@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "al.enableCodeAnalysis": true,
+  "al.incrementalBuild": true,
+  "al.packageCachePath": ".alpackages",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true
+  }
+}
