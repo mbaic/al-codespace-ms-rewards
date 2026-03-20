@@ -127,4 +127,4 @@ It assigns reward levels (Gold, Silver, Bronze) to customers based on configurab
 
 ## See it in action
 
-![Codespace with BC extension published](https://github.com/mbaic/al-codespace-rewards/blob/main/docs/images/al-codespace-demo.jpg)
+![Codespace with BC extension published](https://github.com/mbaic/al-codespace-ms-rewards/blob/main/docs/images/al-codespace-demo.jpg)
