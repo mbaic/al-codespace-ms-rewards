@@ -5,6 +5,8 @@ Demo: **Business Central AL extension development using GitHub Codespaces** — 
 > **Fork this repo first, then open a Codespace from your fork.**
 > Creating a Codespace directly from this repo means you cannot push changes back.
 
+> **Note:** This is a demonstration repository — published to show what's possible with GitHub Codespaces for Business Central AL development, without any local tooling. It reflects how I explore and test this workflow in my own practice. Use it as a starting point and adapt to your own project and sandbox setup.
+
 ---
 
 ## Inspiration
@@ -128,3 +130,9 @@ It assigns reward levels (Gold, Silver, Bronze) to customers based on configurab
 ## See it in action
 
 ![Codespace with BC extension published](https://github.com/mbaic/al-codespace-ms-rewards/blob/main/docs/images/al-codespace-demo.jpg)
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
